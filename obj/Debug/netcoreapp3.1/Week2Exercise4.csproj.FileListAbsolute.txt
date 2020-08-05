@@ -1,0 +1,13 @@
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\bin\Debug\netcoreapp3.1\Week2Exercise4.exe
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\bin\Debug\netcoreapp3.1\Week2Exercise4.deps.json
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\bin\Debug\netcoreapp3.1\Week2Exercise4.runtimeconfig.json
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\bin\Debug\netcoreapp3.1\Week2Exercise4.runtimeconfig.dev.json
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\bin\Debug\netcoreapp3.1\Week2Exercise4.dll
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\bin\Debug\netcoreapp3.1\Week2Exercise4.pdb
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\obj\Debug\netcoreapp3.1\Week2Exercise4.csprojAssemblyReference.cache
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\obj\Debug\netcoreapp3.1\Week2Exercise4.AssemblyInfoInputs.cache
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\obj\Debug\netcoreapp3.1\Week2Exercise4.AssemblyInfo.cs
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\obj\Debug\netcoreapp3.1\Week2Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\obj\Debug\netcoreapp3.1\Week2Exercise4.dll
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\obj\Debug\netcoreapp3.1\Week2Exercise4.pdb
+C:\Users\Dymek\source\repos\Week2Exercise4\Week2Exercise4\obj\Debug\netcoreapp3.1\Week2Exercise4.genruntimeconfig.cache
